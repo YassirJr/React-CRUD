@@ -1,0 +1,16 @@
+.bg-color{
+    background-color: #eee;
+}
+.sidebar {
+    height: 100vh;
+}
+.sidebar ul {
+    gap: 2px;
+}
+.sidebar ul li {
+    padding: 10px ;
+    background-color: #DDD;
+}
+.sidebar ul li a {
+    text-decoration: none;
+}
